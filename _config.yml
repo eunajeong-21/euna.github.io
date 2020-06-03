@@ -27,7 +27,8 @@ favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
 
-<audio src="Someone You Loved.mp3" controls loop autoplay></audio>
+favicon_audio: yes
+favicon_audio_path: "audios/Someome You Loved.mp3"
 
 # Build settings
 markdown: kramdown
