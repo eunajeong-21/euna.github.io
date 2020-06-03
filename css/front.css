@@ -43,17 +43,7 @@ h3 {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
-h3 {
-    color: white;
-    padding-bottom: 20px;
-    font-weight: thin;
-}
-.content {
-    padding-top: 100px;
-    padding-bottom: 40px;
-    background-color: rgba(0, 0, 0, 0.5);
-    text-align: center;
-}
+
 ul {
     list-style: none;
     padding: 0;
