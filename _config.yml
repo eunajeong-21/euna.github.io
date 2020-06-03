@@ -30,3 +30,7 @@ favicon_img_path: "imgs/favicon.ico"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+category_archive:
+  type: liquid
+  path: /categories/
