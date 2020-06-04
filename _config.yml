@@ -35,6 +35,8 @@ favicon_audio_path: "audios/Someome You Loved.mp3"
 markdown: kramdown
 permalink: pretty
 
+category: yes
+category_path: "category.md"
 navigation:
  - title: Home
    url: /index.html
