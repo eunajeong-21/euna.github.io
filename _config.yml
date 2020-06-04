@@ -2,6 +2,7 @@
 name: jeong euna
 description: "이름: 정은아 <br/> 생년월일: 2000. 11. 09 <br/> 전공: 정보보호학전공 <br/> 학력: 중부대 재학중<br/> 전화번호: 010-9590-xxxx"
 url: ""
+remote_theme : mmistakes/minimal-mistakes
 
 # Delete the lines you don't need
 # about 5 elements are recomended
@@ -34,4 +35,12 @@ favicon_audio_path: "audios/Someome You Loved.mp3"
 markdown: kramdown
 permalink: pretty
 
-
+# jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
