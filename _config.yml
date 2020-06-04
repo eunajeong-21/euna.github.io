@@ -36,7 +36,7 @@ markdown: kramdown
 permalink: pretty
 
 category: yes
-category_path: "category.md"
+category_path: "category/category.md"
 navigation:
  - title: Home
    url: /index.html
